@@ -1,0 +1,4 @@
+hadoop root
+hadoop1 raymon
+hadoop2 cui
+hadoop3 list
